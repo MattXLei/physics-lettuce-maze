@@ -1,3 +1,5 @@
+#Inspired by cdlane fromn Stack Overflow: https://stackoverflow.com/questions/44306518/python-loader-using-turtle
+
 from turtle import *
 from time import sleep
 
